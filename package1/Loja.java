@@ -5,7 +5,6 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 
- // Klasa kryesore main
 
 public class Loja 
 {

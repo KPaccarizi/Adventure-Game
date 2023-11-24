@@ -1,43 +1,44 @@
-# Adventure-Game
+# Adventure Game🏠🎮
 
-Adventure Game
-Welcome to the computerized "Adventure Game" repository! This project allows one or more players to embark on a thrilling adventure, exploring rooms, collecting treasures, and facing challenges.
+Welcome to the computerized "Adventure Game" repository! This project invites one or more players to embark on a thrilling journey, exploring rooms, collecting treasures, and facing exciting challenges.
 
-Features
-Room Exploration: Players can enter and exit rooms through doors, each connected by corridors. The corridors may lead to other rooms or nowhere at all.
+## Features
 
-Orientation: To help players navigate, a search feature allows them to find the name of the room they want to enter.
+- **Room Exploration:** Players can enter and exit rooms through doors, each connected by corridors. These corridors may lead to other rooms or nowhere at all.
 
-Additional Rules:
+- **Orientation:** To assist players in navigation, a search feature enables them to find the name of the room they wish to enter.
 
-Players can leave messages in rooms for the next player to discover.
-Treasures hold value and contribute to the player's success.
-Energy is expended while moving between rooms, requiring players to forage for food to replenish energy.
-Project Structure
-This solution is organized into two packages:
+- **Additional Rules:**
+  - Players can leave messages in rooms for the next player to discover.
+  - Treasures hold value and significantly contribute to a player's success.
+  - Energy is expended while moving between rooms, prompting players to forage for food to replenish energy.
 
-Package1
-Game: Manages the overall game flow.
-Player: Represents a player in the game.
-Story: Handles the narrative aspects of the adventure.
-VisibilityManager: Controls the visibility of game elements for the player.
-UserInterface: Provides the interface for user interactions.
-Package2
-Treasury: Manages the treasures within the game.
-Treasury_Currency: Specific class for currency-related treasures.
-Treasury_Gold: Specific class for gold-related treasures.
-Usage
-To experience the adventure game, follow these steps:
+## Project Structure
 
-Clone the repository to your local machine.
-Navigate to the project directory.
-Run the game application.
-bash
-Copy code
-# Example command
-java AdventureGame
-Language
-The game is developed in Albanian, providing a localized and immersive experience for users.
+This solution is meticulously organized into two packages:
 
-Graphical User Interface
-In conclusion, we have tried to make the game as attractive as possible for users through a Graphical User Interface (GUI). This interface enhances clarity in understanding how an adventure game is developed. The game is set within a house, utilizing rooms such as the living room, kitchen, corridor, and bedroom. Our aim is to fulfill all the conditions specified for the development of the "Adventure Game."
+### Package1
+
+1. **Game:** Manages the overall game flow.
+2. **Player:** Represents a player in the game.
+3. **Story:** Handles the narrative aspects of the adventure.
+4. **VisibilityManager:** Controls the visibility of game elements for the player.
+5. **UserInterface:** Provides the interface for user interactions.
+
+### Package2
+
+1. **Treasury:** Manages the treasures within the game.
+2. **Treasury_Currency:** A specific class for currency-related treasures.
+3. **Treasury_Gold:** A specific class for gold-related treasures.
+
+## Usage
+
+To embark on this adventure, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Run the game application.
+
+The game is developed in Albanian, offering a localized and immersive experience for users.
+
+

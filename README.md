@@ -41,4 +41,7 @@ To embark on this adventure, follow these steps:
 
 The game is developed in Albanian, offering a localized and immersive experience for users.
 
+![Game](image.png)
+![Game1](image1.png)
+
 
